@@ -481,13 +481,13 @@ body.popup-show::after {
 }
 
 .hero {
-  background: url("img/hero/background.png") 0 0/cover no-repeat;
+  background: url("../img/hero/background.png") 0 0/cover no-repeat;
   color: #fff;
   overflow: hidden;
 }
 @media (max-width: 930px) {
   .hero {
-    background: url("img/hero/bg-small.png") 0 0/cover no-repeat;
+    background: url("../img/hero/bg-small.png") 0 0/cover no-repeat;
   }
 }
 
